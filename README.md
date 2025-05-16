@@ -4,9 +4,9 @@
 
 ## Funcionalidades
 
-- ✅ Adicionar novas tarefas
-- 🗑️ Remover tarefas selecionadas
-- 📋 Visualizar todas as tarefas com numeração
+- ✅ Adicionar novas tarefas  
+- 🗑️ Remover tarefas selecionadas  
+- 📋 Visualizar todas as tarefas com numeração  
 - 🖤 Interface escura estilizada com rolagem
 
 ## Pré-requisitos
@@ -15,7 +15,12 @@
 
 ## Como executar
 
-1. Clone o repositório:
-
 ```bash
+# 1. Clone o repositório
 git clone https://github.com/pietros133/Tarefa-Facil.git
+
+# 2. Acesse a pasta do projeto
+cd Tarefa-Facil
+
+# 3. Execute o aplicativo
+python todo.py
