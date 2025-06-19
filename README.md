@@ -1,6 +1,6 @@
-# Tarefa Certa
+# Tarefa Facil
 
-**Tarefa Certa** é uma aplicação simples de lista de tarefas desenvolvida em Python com interface gráfica usando Tkinter.
+**Tarefa Facil** é uma aplicação simples de lista de tarefas desenvolvida em Python com interface gráfica usando Tkinter.
 
 ## Funcionalidades
 
