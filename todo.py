@@ -30,7 +30,7 @@ def atualizar_lista():
 
 # Janela principal
 root = tk.Tk()
-root.title("Tarefa Certa")
+root.title("Tarefa Facil")
 root.geometry("400x500")
 root.config(bg="#121212")  # Fundo escuro
 root.resizable(False, False)
