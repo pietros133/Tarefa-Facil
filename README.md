@@ -4,10 +4,10 @@
 
 ## Funcionalidades
 
-- ✅ Adicionar novas tarefas  
-- 🗑️ Remover tarefas selecionadas  
-- 📋 Visualizar todas as tarefas com numeração  
-- 🖤 Interface escura estilizada com rolagem
+- Adicionar novas tarefas  
+- Remover tarefas selecionadas  
+- Visualizar todas as tarefas com numeração  
+- Interface escura estilizada com rolagem
 
 ## Pré-requisitos
 
